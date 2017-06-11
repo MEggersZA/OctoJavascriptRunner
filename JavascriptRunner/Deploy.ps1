@@ -1,0 +1,1 @@
+﻿& .\JavascriptRunner.exe
